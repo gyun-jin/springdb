@@ -1,0 +1,28 @@
+# Maven build
+target/
+
+# Eclipse
+.settings/
+.classpath
+.project
+.factorypath
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Visual Studio Code
+.vscode/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+
+# Operating system
+.DS_Store
+Thumbs.db
